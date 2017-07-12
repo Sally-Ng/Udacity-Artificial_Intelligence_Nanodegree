@@ -13,5 +13,5 @@ The Nanodegree's website</a> </p>
 Techniques: Constraint Propagation and Search </br>
 Built an intelligent agent that can solve sudoku </br>
 <p align="left">
-  <img src="Sudoku_working.JPG" width="350"/>
+  <img src="Sudoku_working.JPG" width="250"/>
 </p>

@@ -8,6 +8,8 @@ The Nanodegree's website</a> </p>
 - [ ] Project 1: Build a Game-Playing Agent
 - [ ] Project 2: Implement a Planning Search
 - [ ] Project 3: Design a Sign Language Recognition System
+</br>
+</br>
 
 [Project 0: Diagonal Sudoku Solver](https://github.com/Sally-Ng/AIND-Diagonal_Sudoku_Solver) </br>
 Techniques: Constraint Propagation and Search </br>

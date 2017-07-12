@@ -9,7 +9,7 @@ The Nanodegree's website</a> </p>
 - [ ] Project 2: Implement a Planning Search
 - [ ] Project 3: Design a Sign Language Recognition System
 
-[Project 0: Diagonal Sudoku Solver](https://github.com/Sally-Ng/AIND-Diagonal_Sudoku_Solver)
+[Project 0: Diagonal Sudoku Solver](https://github.com/Sally-Ng/AIND-Diagonal_Sudoku_Solver) </br>
 Techniques: Constraint Propagation and Search </br>
 Built an intelligent agent that can solve sudoku </br>
 <p align="left">
